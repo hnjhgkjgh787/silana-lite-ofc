@@ -10,7 +10,7 @@ global.setting = {
  clearSesi: false, // trash cleaner sessions 
  clearTmp: true, // tmp trash cleaner
  addReply: true, // create with thumbnail in message
- idgc: '120363416417423801@newsletter' // id gc buat join only
+ idgc: '120363416417423801@g.us' // id gc buat join only
  }
 
 global.info = {
